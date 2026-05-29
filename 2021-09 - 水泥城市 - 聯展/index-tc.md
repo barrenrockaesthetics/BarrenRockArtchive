@@ -6,26 +6,17 @@ original_url: "https://barrenrockaesthetics.cargo.site/21549598"
 
 # 水泥城市
 
-展覽 Exhibition :
-
-未知的香港粗獷主義
-
-Unknown Brutualism Architecture in Hong Kong
-
-踱步水泥上
-
-Pacing Cement
+展覽 Exhibition : 
+踱步水泥上 Pacing Cement 
+未知的香港粗獷主義 Unknown Brutualism Architecture in Hong Kong
 
 藝術家 Artist :
-
 香港粗獷建築研究團隊
-
 HK Brutualism Architecture Research Team
-
-李心怡 LEE Sum Yi Sami
+李心怡 
+LEE Sum Yi Sami
 
 日期 Date :
-
 2021.09.29
 
 ##
