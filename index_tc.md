@@ -3,7 +3,7 @@ title: "我的私生活很亂，歡迎光臨"
 date: "2026.06.03"
 exhibition: "我的私生活很亂，歡迎光臨"
 artist(s): "馬域"
-exhibiton date: "14-22.02.2026"
+exhibiton date: "2026.02.14-22"
 url: "nil"
 --- 
 
