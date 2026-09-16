@@ -1,9 +1,3 @@
----
-title: "Tempé Art Space Last Day"
-date: "2021.08.22"
-original_url: "https://barrenrockaesthetics.cargo.site/2021-08"
----
-
 # Tempé Art Space Last Day
 
 ```
@@ -12,7 +6,7 @@ Venue: "Tempé Art Space"
 
 ---
 
-## **Tempé Art Space Last Day**
+### Tempé Art Space Last Day
 
 一個近排好喜歡嘅 art space ，（除左係因為近我屋企之外，）仲係因為佢大部份嘅展覽都幾啱我口味，都有一種好純粹、簡單、直接嘅感覺。一入去，空間唔大，一眼望哂，一個廁所，兩邊窗，同埋一堆 socket 同電線管。而呢啲咁直接嘅 preset 係之前嘅大部份展覽中都同作品有唔同嘅互動。雖然唔係每個展都有特別嘅感受，但所有都展覽都十分真誠，一目了然。
 
@@ -20,4 +14,5 @@ Venue: "Tempé Art Space"
 
 唔捨得啊！
 
+_  
 (2021-08-22)

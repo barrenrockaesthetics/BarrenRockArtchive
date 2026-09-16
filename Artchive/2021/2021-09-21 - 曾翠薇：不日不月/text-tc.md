@@ -1,8 +1,8 @@
-# 不日不月
+# 曾翠薇：不日不月
 
 ```
 Exh: "不日不月"
-ExhPeriod: "2021.09.21"
+ExhPeriod: "2021.09.18 - 2021.10.30"
 Space: "Karin Weber Gallery"
 Artists: 
 - "曾翠薇 TSANG Chui Mei"
@@ -20,6 +20,6 @@ Artists:
 
 祝大家中秋節快樂！
 
-
-(2021-09-21)
-
+_  
+(2021-09-21)  
+*This post was deleted at instagram as a conequence of a game. Forgot what game (2026-09-16)

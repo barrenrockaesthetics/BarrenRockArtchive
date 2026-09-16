@@ -1,9 +1,3 @@
----
-title: "After Enso, — Sound Form 2021: Present_Present"
-date: "2021.10.31"
-original_url: "https://barrenrockaesthetics.cargo.site/2021-10"
----
-
 # After Enso, — Sound Form 2021: Present_Present
 
 ```
@@ -22,4 +16,5 @@ Artists:
 
 黑膠所呈現嘅「現在」，一方面嚟自 Kin Lam「私伙」 ，另一方面嚟自五湖四海嘅「記憶」現成物（Found Sound），當中有環境聲，亦有自述殺人嘅錄音。背住過去，成為現在，除左係多一種睇《After Enso》點樣呈現「現在」嘅視覺，大概亦係 Kin Lam ，亦係我地最「現在」嘅課題。
 
+_  
 (2021-10-31)

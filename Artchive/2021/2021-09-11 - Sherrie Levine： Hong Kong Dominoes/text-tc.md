@@ -1,14 +1,8 @@
----
-title: "Sherrie Levine: Hong Kong Dominoes"
-date: "2021.09.11"
-original_url: "https://barrenrockaesthetics.cargo.site/2021-09"
----
-
 # Sherrie Levine: Hong Kong Dominoes
 
 ```
 Exh: "Sherrie Levine: Hong Kong Dominoes"
-ExhPeriod: "2021.09.11"
+ExhPeriod: "2021.09.04 - 2021.10.13"
 Space: "David Zwirner, Hong Kong"
 Artists: 
 - "Sherrie Levine"
@@ -24,6 +18,6 @@ Artists:
 
 P.S. 我覺得呢種 generality vs particularity 嘅睇法可以睇埋《Dominoes》同《Matisse》，畢竟都係 modernity 入面最常討論嘅題目。
 
-
+_  
 (2021-09-11)
 
