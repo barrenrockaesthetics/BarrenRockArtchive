@@ -73,31 +73,31 @@ Artchive/
 ├── **2021**/  
 │   ├── [2021-10-31 - After Enso](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-31%20-%20After%20Enso)  
 │   │       After Enso, — Sound Form 2021: Present_Present | 2021.10.31 | 大館 F Hall, Tai Kwun | 林建霖 Kin LAM  
-│   ├── [2021-10-31 - Memoria](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-31%20-%20Memoria)  
+│   ├── [2021-10-31 - Memoria (2021)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-31%20-%20Memoria%20(2021))  
 │   │       Memoria | 2021 | Apichatpong Weerasethakul  
-│   ├── [2021-10-23 - 我為卿狂](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-23%20-%20%E6%88%91%E7%82%BA%E5%8D%BF%E7%8B%82)  
+│   ├── [2021-10-23 - 我為卿狂（1991）](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-23%20-%20%E6%88%91%E7%82%BA%E5%8D%BF%E7%8B%82%EF%BC%881991%EF%BC%89)  
 │   │       我為卿狂 | 1991 | 何藩 HO Fan  
 │   ├── [2021-10-16 - Dropped](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-16%20-%20Dropped)  
-│   │       Dropped | 2021.10.16 | Osage Hong Kong | Louis Max Nixon  
+│   │       LOUIS NIXON: Dropped | 2021.09.30 - 2021.12.07 | Osage Hong Kong | Louis Max Nixon  
 │   ├── [2021-10-14 - Moiré](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-14%20-%20Moir%C3%A9)  
-│   │       Moiré | 2021.10.14 | Yrellag Gallery | 莫鎧靖 Silvester Mok  
+│   │       Moiré | 2021.10.03 - 2021.10.28 | Yrellag Gallery | 莫鎧靖 Silvester Mok  
 │   ├── [2021-10-03 - 卯時](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-10-03%20-%20%E5%8D%AF%E6%99%82)  
-│   │       卯時 | 2021.10.03 | 光影作坊 Lumenvisum | 唐潔宜  
+│   │       《卯時》唐潔宜個展 “0500 – 0700” A SOLO EXHIBITION BY KIT YEE TONG | 2021.09.14 - 2021.10.03 | 光影作坊 Lumenvisum | 唐潔宜 TONG Kit Yee  
 │   ├── [2021-09-29 - 水泥城市](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-29%20-%20%E6%B0%B4%E6%B3%A5%E5%9F%8E%E5%B8%82)  
-│   │       未知的香港粗獷主義 Unknown Brutualism Architecture in Hong Kong | 2021.09.29 | 香港粗獷建築研究團隊 HK Brutualism Architecture Research Team  
+│   │       未知的香港粗獷主義 BRUTAL! - Unknown Brutalism Architecture in Hong Kong | 2021.09.03 - 2021-09-17 | openground | 香港粗獷建築研究團隊 HK Brutalism Architecture Research Team  
 │   ├── [2021-09-25 - Per.Platform #1 熵：時間之箭](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-25%20-%20Per.Platform%20%231%20%E7%86%B5%EF%BC%9A%E6%99%82%E9%96%93%E4%B9%8B%E7%AE%AD)  
-│   │       Per.Platform #1 熵：時間之箭～ | 2021.09.25 | 135 YCS | 謝曉陽 Milo TSE, 楊小芳 YEUNG Siu Fong  
-│   ├── [2021-09-22 - Dune](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-22%20-%20Dune)  
+│   │       Per.Platform #1 熵：時間之箭～ | 135 YCS | 2021.09.25 | 謝曉陽 Milo TSE, 楊小芳 YEUNG Siu Fong  
+│   ├── [2021-09-22 - Dune (2021)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-22%20-%20Dune%20(2021))  
 │   │       Dune | 2021 | Denis Villeneuve  
-│   ├── [2021-09-21 - 不日不月](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-21%20-%20%E4%B8%8D%E6%97%A5%E4%B8%8D%E6%9C%88)  
-│   │       不日不月 | 2021.09.21 | Karin Weber Gallery | 曾翠薇 TSANG Chui Mei  
+│   ├── [2021-09-21 - 曾翠薇：不日不月](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-21%20-%20%E6%9B%BE%E7%BF%A0%E8%96%87%EF%BC%9A%E4%B8%8D%E6%97%A5%E4%B8%8D%E6%9C%88)  
+│   │       不日不月 | 2021.09.18 - 2021.10.30 | Karin Weber Gallery | 曾翠薇 TSANG Chui Mei  
 │   ├── [2021-09-11 - Sherrie Levine： Hong Kong Dominoes](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-11%20-%20Sherrie%20Levine%EF%BC%9A%20Hong%20Kong%20Dominoes)  
-│   │       Sherrie Levine: Hong Kong Dominoes | 2021.09.11 | David Zwirner, Hong Kong | Sherrie Levine  
-│   ├── [2021-09-11 - 幻境](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-11%20-%20%E5%B9%BB%E5%A2%83)  
-│   │       幻境 | 2021.09.11 | Art Projects Gallery | 劉彥韜 Lewis LAU  
-│   ├── [2021-09-11 - 空窗期](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-11%20-%20%E7%A9%BA%E7%AA%97%E6%9C%9F)  
-│   │       空窗期 | 2021.09.11 | arthome | 李慧鳳 Pion LEE, 香建峰 Alex HEUNG, 黃淑賢  Elaine WONG | 曾明輝 Kazaf TSANG, 黃御 Kelly WONG  
-│   ├── [2021-08-25 - Petite Maman](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-08-25%20-%20Petite%20Maman)  
+│   │       Sherrie Levine: Hong Kong Dominoes | 2021.09.04 - 2021.10.13 | David Zwirner, Hong Kong | Sherrie Levine  
+│   ├── [2021-09-11 - 劉彥韜：幻境](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-11%20-%20%E5%8A%89%E5%BD%A5%E9%9F%9C%EF%BC%9A%E5%B9%BB%E5%A2%83)  
+│   │       幻境 | 2021.09.11 - 2021-09-11 | Art Projects Gallery | 劉彥韜 Lewis LAU  
+│   ├── [2021-09-11 - 城市的空窗](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-09-11%20-%20%E5%9F%8E%E5%B8%82%E7%9A%84%E7%A9%BA%E7%AA%97)  
+│   │       空窗期 | 2021.08.29 - 2021.09.12 | arthome | 李慧鳳 Pion LEE, 香建峰 Alex HEUNG, 黃淑賢 Elaine WONG | 曾明輝 Kazaf TSANG, 黃御 Kelly WONG  
+│   ├── [2021-08-25 - Au revoir — Petite Maman](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-08-25%20-%20Au%20revoir%20%E2%80%94%20Petite%20Maman)  
 │   │       Petite Maman | 2021 | Céline Sciamma  
 │   ├── [2021-08-22 - Tempé Art Space Last Day](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-08-22%20-%20Temp%C3%A9%20Art%20Space%20Last%20Day)  
 │   │       Tempé Art Space  
