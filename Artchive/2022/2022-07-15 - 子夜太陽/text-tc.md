@@ -11,7 +11,7 @@ Exh: "子夜太陽"
 ExhPeriod: "2022.07.15"
 Space: "WURE"
 Artists: 
-- "陳凱慈  [Nicole CHAN](#)"
+- "陳凱慈 Nicole CHAN"
 - "陳靄欣 CHAN Oi Yan"
 - "鄭詠文 Van CHENG"
 - "盧棠棣 Vanessa LO"

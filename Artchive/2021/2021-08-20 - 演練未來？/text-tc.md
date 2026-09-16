@@ -1,14 +1,9 @@
----
-title: "演練未來？"
-date: "2021.08.20"
-original_url: "https://barrenrockaesthetics.cargo.site/21017592"
----
-
 # 演練未來？
 
 ```
 Exh: "後人類敘事 — 共存之地 Post-Human Narratives - The Co-existing Land"
-ExhPeriod: "2021.08.20"
+ExhPeriod: "2021.07.31 - 2021.09.05"
+Space: "牛棚藝術村 Cattle Depot Artist Village, Hong Kong"
 Artists: 
 - "倍帝愛波 Betty Apple"
 - "Florence LAM"
@@ -23,7 +18,7 @@ Curators:
 ```
 
 ---
-## **// 烏托邦是架空現實、過於離地的幻想；敵托邦是萬物崩解、沒有出路的失落。 //**
+### > 烏托邦是架空現實、過於離地的幻想；敵托邦是萬物崩解、沒有出路的失落。
 
 ###### 《著陸（我們交談，然後你忘記了這些言語）》 (許思樂, 2021) [^a1]
 ![image](./img/banner.jpg)

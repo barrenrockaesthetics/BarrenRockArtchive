@@ -8,7 +8,7 @@ This document describes the organizational structure of the **Barren Rock Artchi
 |---|---|
 | `README.md` | Project intro / build status ("building in progress"). Public-facing landing text. |
 | `ABOUT.md` | Bilingual mission statement — the "美學 Aesthetics" and "無用石 Barren Rock" sections explaining the archive's name and critical stance. Currently Traditional Chinese only. |
-| `CONTENT.md` | Master index table of **all archived entries** — columns: `#`, Date Written, Exhibition Date, Exhibition/Writing Name, Artist(s), Full Path. Acts as the table of contents for the whole archive. |
+| `CONTENT.md` | Master index of **all archived entries** — a year-grouped tree, newest year and newest entry first, each entry linking to its GitHub path with a one-line info summary underneath (see §9). Acts as the table of contents for the whole archive. |
 | `content_rules.md` | This file — documents the structure/conventions so new entries stay consistent. |
 | `text_template.md` | Canonical Markdown template for writing a **new** entry body (see §4). |
 | `Artchive/` | Directory holding every dated entry, grouped by year (see §2, §7). |
@@ -37,20 +37,9 @@ Artchive/YYYY/YYYY-MM-DD - <Title>/
 
 ## 4. Front matter & body schema
 
-### 4.1 Legacy entries (pre-2026 front-matter schema)
+### 4.1 Legacy entries (older front-matter schema)
 
-Applies to entries written before the `text_template.md` schema (§4.2) was adopted — the files are now named `text-tc.md`/`text-en.md` like everything else (§3), but their front matter and body still follow this older, simpler shape:
-
-YAML front matter, minimal set:
-
-```yaml
----
-title: "..."
-date: "YYYY.MM.DD"        # or "YYYY.MM" for monthly compilations
-original_url: "https://..."
-status: "external_inactive"  # present when the original source link is dead
----
-```
+Applies to entries carrying the older, simpler front-matter/body shape that predates the `text_template.md` schema (§4.2) — the files are now named `text-tc.md`/`text-en.md` like everything else (§3), but their front matter and body still follow this older shape. This is **not a clean date cutoff**: only about 22 of 55 `text-tc.md` files actually carry the legacy YAML front matter (`title`/`date`/`original_url`), scattered across years rather than confined to "before 2026" — it correlates more with whether an entry was migrated out of an old monthly compilation than with its publish date (see §8).
 
 Body structure:
 1. `# Title` (H1, matches front-matter title)
@@ -61,35 +50,53 @@ Body structure:
 
 ### 4.2 New/current format (`text_template.md`)
 
-Legacy top-of-file YAML front matter (`title`/`date`/`original_url`, §4.1) is kept as-is for provenance. Exhibition (or film) metadata itself now lives in a plain fenced code block in the body, right after the `# Title` — not real YAML front matter, by deliberate choice, so it stays easy to hand-edit/read; it just needs to be internally consistent enough to script against later. All fields are optional — include only what's known:
+Legacy top-of-file YAML front matter (`title`/`date`/`original_url`, §4.1) is kept as-is for provenance when present. Exhibition/film/performance/etc. metadata itself lives in a plain fenced code block in the body, right after the `# Title` — not real YAML front matter, by deliberate choice, so it stays easy to hand-edit/read; it just needs to be internally consistent enough to script against later. All fields are optional — include only what's known. **The venue field name depends on content type** (confirmed across the archive, not a typo):
 
 ```
+# Exhibition — venue field is "Space"
 Exh: "title"
 ExhPeriod: "ExhStartDate - ExhEndDate"
-Venue: "Venue"
+Space: "Artspace"
 Artists: 
 - "Artist1"
 - "Artist2"
 Curators: 
 - "Curator1"
-Designers:
-- "Designer"
+
+# Film
 Film: "Film"
 FilmYear: "FilmYear"
 Directors:
 - "Director1"
+
+# Performance / music show — venue field is "Venue"
+Perf: "Perf"
+Venue: "Venue"
+PerfDay: "PerfDay"
+Artists:
+- "Artist1"
+
+# Design piece
+DesignItem: "DesignItem"
+DesignYear: "DesignYear"
+Designers:
+- "Designer1"
 ```
 
-If the piece covers 2+ exhibitions or films, add one separate fenced block per exhibition/film immediately after the first — never merge them into one block/list.
+- Exhibitions use `Space` (e.g. `Space: "大館賽馬會藝方 Tai Kwun JC Contemporary"`); performances use `Venue` (e.g. `Venue: "大館 F Hall, Tai Kwun"`) — the two block shapes are genuinely different, not a naming slip.
+- `ExhPeriod`/`PerfDay` aren't normalized to one date format in practice: dash ranges (`"2021-04-23 - 2021-08-01"`), dot ranges (`"2023.11.29 - 2023.12.12"`), and single dot-dates for one-day shows (`"2022.05.21"`) all appear.
+- `Perf`/`PerfDay`/`Venue` are real and in active use (e.g. `2023-02-03 - 和光同塵`, `2021-10-31 - After Enso`), but every field beyond the type marker (`Perf`/`Exh`/`Film`/...) and `Artists` is optional — some `Perf` entries have no `Venue`/`PerfDay` at all.
+- `DesignItem`/`DesignYear`/`Designers` are used (once so far: `2022-12-31 - 2022 年度我最喜愛展覽主視覺設計`). `Album`/`AlbumYear` are defined in `text_template.md` but not yet used by any entry.
+- If a piece covers 2+ exhibitions/films/performances, add one separate fenced block per item immediately after the first — never merge them into one block/list (e.g. `2021-09-29 - 水泥城市` and `2023-12-31 - 墨洗／安全島` each carry two `Exh` blocks, each with its own `Curators`/`Space`).
 
 Body (per `text_template.md`):
 1. `# Title`
 2. One (or more) info block(s) as above.
 3. `---` divider, then a caption (H6) for the banner image immediately above it, then the banner image itself (`./img/banner.jpg`) — caption comes *before* the image it describes, not after.
-4. Body organized under `### Subtitle N` headings — layout is flexible per piece. Every captioned image follows the same caption-then-image order; a caption may carry a footnote marker (`[^a1]`) linking it to an `Artworks` entry. Quotes use blockquote `>` with footnote markers (`[^1]`) for in-text citations.
-5. Optional `---` + `### 參考 Reference` footnote-definition block (`[^1]: ...`) at the end, for citations/references — only if any were used.
-6. `---` + `### 作品 Artworks` section whenever an image cites an artwork (optional for film/music critique): footnote-style definitions (`[^a1]: artwork1`, using an `a`-prefixed namespace so IDs never collide with `Reference`'s plain-numeric footnotes).
-7. Trailing `(pub.date)` line in `yyyy-mm-dd` format.
+4. Body organized under `### Subtitle N` headings — layout is flexible per piece. Every captioned image follows the same caption-then-image order; a caption may carry a footnote marker (`[^a1]`) for an artwork citation. Quotes use blockquote `>` with footnote markers (`[^1]`) for in-text citations.
+5. Optional `---` divider followed directly by the footnote *definitions* — plain numeric (`[^1]: ...`) for in-text citations and `a`-prefixed (`[^a1]: ...`) for artwork captions, sitting together under the same divider with no subheading between them (only when any were used; the `a`-prefix exists purely so artwork-caption IDs never collide with citation IDs — it is not a separate section).
+6. `---` + `#### 參考目錄 Reference List` — compulsory whenever there's any reading reference or artwork citation. In practice this is always **one flat numbered list** (`1.`, `2.`, ...) restating every footnote defined above, citations and artworks interleaved — there is no separate "作品 Artworks" heading/section on disk, despite what an earlier draft of this doc claimed. Artwork citations follow Harvard style: `藝術家（年份）。《藝術品名稱》。〔媒介〕。藝術空間，城市。` (TC/SC) or `Artist, A. (Year) *Title*. [Medium]. Venue, City.` (EN); omit the `〔媒介〕`/`[Medium]` bracket entirely when the medium isn't known rather than guessing.
+7. Trailing `_` divider + `(pub.date)` line in `yyyy-mm-dd` format, with an optional `*notes` line after for personal post-notes.
 
 Only reformat existing captions/citations into this footnote structure where the artwork/reference data is already present in the text (title, artist, year) — never fabricate a caption or citation for an image that was never captioned in the original.
 
@@ -100,6 +107,7 @@ This is a superset of the older archived-entry schema — new entries should fol
 - Primary language: Traditional Chinese, frequently written in Cantonese vernacular (口語) rather than formal written Chinese.
 - English titles/terms are kept inline for foreign artist names, exhibition titles, and quoted English-language sources.
 - Every entry is intended to ship as a bilingual pair (`-tc` / `-en`), but English translations lag behind — many `text-en.md` files currently just carry an English `title` with untranslated Chinese body text.
+- A `text-sc.md` (Simplified Chinese) variant exists for at least one entry (`Artchive/2025/2025-06-05 - 三文鱼丶Salmon丶鲑（さけ）/`, alongside `text-tc.md` and `text-en.md`) — not just a hypothetical future option, but a real trilingual precedent worth following for entries where SC readership matters.
 
 ## 6. Content categories
 
@@ -136,7 +144,7 @@ BarrenRockArtchive/
 
 ### 7.2 Actual repository tree (current on-disk state, abridged)
 
-All monthly `筆記合集` compilations have now been split into individual dated entries (§8) — the archive is 36 entries across 2021–2026. Rather than re-listing every folder here (see `CONTENT.md` for the authoritative, complete list with paths), this shows the shape with a few representative entries per year:
+All monthly `筆記合集` compilations have now been split into individual dated entries (§8). The archive currently has **59 entry folders** under `Artchive/` across 2021–2026 (2021: 25, 2022: 10, 2023: 18, 2024: 2, 2025: 2, 2026: 5, on-disk directory counts) — 55 of those have real text content; 4 of the 2026 folders are empty or placeholder (no file, or a 0-byte `text-tc.md`) and aren't real entries yet (see §8). Note `CONTENT.md`'s index table currently lags well behind this — see §8. Rather than re-listing every folder here (see `CONTENT.md` for the intended authoritative list with paths, once resynced), this shows the shape with a few representative entries per year:
 
 ```
 .
@@ -179,19 +187,23 @@ All monthly `筆記合集` compilations have now been split into individual date
 
 > This tree is illustrative, not exhaustive or byte-for-byte current — the archive keeps growing (new years, new entries, occasional `text-sc.md` for Simplified Chinese) faster than this doc is refreshed. See `CONTENT.md` for the authoritative, up-to-date list of every entry and its path.
 
-## 8. Open inconsistencies to resolve
+## 9. CONTENT.md tree format
 
-Resolved by decision and migration (see §2, §3, §6, §7):
-- ~~Suffix (`- 聯展` / person name) in folder names~~ — dropped; folders are publish date + title only.
-- ~~Month-level folder dates~~ — dated-piece folders now use full `YYYY-MM-DD`.
-- ~~Physical migration~~ — all 18 pre-existing entries and the standalone `index_tc.md` (moved to `Artchive/2026/2026-06-03 - 我的私生活很亂，歡迎光臨/text-tc.md`) have been moved into `Artchive/YYYY/...` with `index-*.md` → `text-*.md`, `images/image_N` → `img/imgN`, and PDF filenames updated to match their new folder names.
-- ~~Info-block metadata format~~ — reformatted to the `Exh`/`ExhPeriod`/`Venue`/`Artists`/`Curators` fenced block (§4.2) across every non-compilation entry.
-- ~~Monthly notes compilations as an ongoing bundled format~~ — discontinued, and retroactively split: all 9 compilation files (27 items total) were broken into individual dated entries with their own `Exh`/`Film`/`Artists`/`Directors` blocks. No `筆記合集` folders remain.
-- ~~PDF exports and oversized images bloating the repo~~ — all 9 `pub at YYYY-MM-DD.pdf` archival snapshots removed (they embedded full-resolution photos and ran 16–64MB each, ~183MB total). Every standalone image in `img/` resized to a 1920px long-edge cap; originals backed up outside the repo before touching anything. `Artchive/` went from ~390MB to ~28MB.
+`CONTENT.md` is a year-grouped tree, not a table (an earlier version of both this doc and `CONTENT.md` used a flat markdown table — retired in favor of this). Rules:
 
-Still open:
-- **Two content types the current schema doesn't cover**: a music concert (`Artchive/2023/2023-02-03 - 和光同塵`) and a performance-art piece (`Artchive/2021/2021-10-31 - After Enso`) were folded into the `Exh` field for lack of a better one — there's no `Music`/`Performance` field in `text_template.md`. Worth a decision if these categories recur.
-- **Non-exhibition essays have no home in the schema**: （給自己的）藝術評論倫理學 responds to a published article, not an exhibition, and has no `Exh`/`Film` data at all — it was left with its legacy plain-text metadata rather than force-fit into the new info block.
-- A few split-out entries have no `text-en.md` because no English version ever existed for that specific item in the original compilation (`2022-05-21 - 不能承受的輕` is one); not fabricated, just absent.
-- The migrated `Artchive/2026/2026-06-03 - 我的私生活很亂，歡迎光臨/` entry has no `text-en.md` yet — needs an English counterpart to satisfy §3.
-- `ABOUT.md` has no English counterpart yet (`ABOUT-en.md` does not exist), despite the site being framed as bilingual.
+- Group by year, newest year first (`2026` at the top); within a year, newest entry first by its folder date prefix.
+- Only real entries with actual text content are listed — empty/placeholder folders (see §8) are left out entirely, not shown as stubs.
+- Each entry's folder name is a markdown link to its GitHub path (`https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/<year>/<folder>`), percent-encoded so the link works despite spaces/CJK/punctuation in folder names.
+- Directly under the link, one line of **raw values** (no field labels) from that entry's info block (§4.2), pipe-separated (`|`), in the order the fields appear in the source file — e.g. `Exh | ExhPeriod | Space | Artists | Curators` for an exhibition, `Film | FilmYear | Directors` for a film. Multiple values within one field (e.g. several artists) are comma-joined within that field's slot, not given their own pipe segment.
+- Entries with no info block at all (plain essays, e.g. `2023-09-29 - dampheat`) get `N/A` instead.
+- Keep it minimal — this is a scannable index, not a synopsis; don't add commentary beyond what the info block already says.
+
+Example (from the real file):
+```
+├── 2021/
+│   ├── [2021-07-21 - 墨城：當代城市塑造的⽔墨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-07-21%20-%20...)
+│   │       墨城 Ink City | 2021-04-23 - 2021-08-01 | 大館賽馬會藝方 Tai Kwun JC Contemporary
+```
+
+When adding a new entry, regenerate/append to `CONTENT.md` rather than hand-copying an old row's shape — field order and presence genuinely differ by content type (§4.2).
+
