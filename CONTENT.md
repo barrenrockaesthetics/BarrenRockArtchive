@@ -64,8 +64,8 @@ Artchive/
 │   │       不能承受的輕 | 2022.05.21 | Grotto Fine Art | 沈君怡 SHUM Kwan Yi  
 │   ├── [2022-05-14 - Perfect Sense](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2022/2022-05-14%20-%20Perfect%20Sense)  
 │   │       Perfect Sense Chris Shen — Solo Exhibition | 2022.05.14 | Current Plans | Chris SHEN  
-│   ├── [2022-05-01 - Linger (A While](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2022/2022-05-01%20-%20Linger%20(A%20While)  
-│   │       Linger (A While | 2022.05.01 | Hidden Space | 葉「中村」政宏  
+│   ├── [2022-05-01 - Linger (A Whil)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2022/2022-05-01%20-%20Linger%20(A%20While)  
+│   │       Linger (A While) | 2022.05.01 | Hidden Space | 葉「中村」政宏  
 │   ├── [2022-02-27 - （給自己的）藝術評論倫理學](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2022/2022-02-27%20-%20%EF%BC%88%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%EF%BC%89%E8%97%9D%E8%A1%93%E8%A9%95%E8%AB%96%E5%80%AB%E7%90%86%E5%AD%B8)  
 │   │       N/A  
 │   ├── [2022-01-04 - 遊樂場記，2021](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2022/2022-01-04%20-%20%E9%81%8A%E6%A8%82%E5%A0%B4%E8%A8%98%EF%BC%8C2021)  

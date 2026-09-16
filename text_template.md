@@ -61,27 +61,28 @@ info: "info"
 <!-- divider to start the main text -->
 ---
 <!-- Main text: the paragraphs and images layout below depends on each text content. The style follow straightly that of .md files' style https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet -->
-###### Caption as cition of banner.jpg [^a1]
+
 ![image](./img/banner.jpg)
+<H6>Caption as cition of banner.jpg</H6>
 
 ### Subtitle 1
 Para1
 <!-- for all images in the text, citation is needed, as in H6 -->
-###### Caption as cition of img1.jpg [^a1]
-![image](./img/img1.jpg)
-###### Caption as cition of img2.jpg [^a2] [^a3]
-![image](./img/img2.jpg) 
+|![image](./img/img1.jpg)|![image](./img/img2.jpg)|
+|-----|-----|
+|<H6>Caption as cition of img1.jpg</H6>|<H6>Caption as cition of img2.jpg</H6>|
 
 ### Subtitle 2
 Para2
 <!-- for all quotes and direct in-text citaions, use blockquote-->
 > quote[^1]
 
-### Subtitle 3
+> <H3>Quote as Subtitle 3</H3>
 Para3[^2]
 
-###### Caption as cition of img3.jpg [^a4]
+###### Caption as cition of img3.jpg
 ![image](./img/img3.jpg)
+<H6>Caption as cition of img3.jpg</H6>
 
 ### Subtitle 4
 Para4 [^3]
