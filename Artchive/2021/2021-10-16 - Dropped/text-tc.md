@@ -1,0 +1,27 @@
+---
+title: "Dropped"
+date: "2021.10.16"
+original_url: "https://barrenrockaesthetics.cargo.site/2021-10"
+---
+
+# Dropped
+
+```
+Exh: "Dropped"
+ExhPeriod: "2021.10.16"
+Space: "Osage Hong Kong"
+Artists: 
+- "Louis Max Nixon"
+```
+
+---
+
+一入場就見到藝術家對石頭、重力、物料嘅研究成果，藝術家嘅研究方法同科學研究有相似嘅地方 － fixed factors（鐵枱、重力）加上 variable factor （石頭）。《Dropped》嘅呈現方式展示整張比石整壞嘅枱，觀眾可以一覽整個撞擊過程、力度、重心、重量 …… 同「科學」普遍所關心嘅數字、度量呢啲具普遍性嘅指標唔同，加上所展出嘅數量、體積同質感亦令成件事變得震憾。
+
+Newton’s Third Law 話有 action force ，就會有 reaction force；《Dropped》裡面相對於重力嘅 reaction force（竟然）係太空垃圾所可以上到太空嘅力，呢個亦係藝術家所研究之重 － 究竟太空垃圾係點樣、同點解上左太空㗎呢？展覽總合左傻西瓜太空人「掉垃圾」嘅片段，又以 3D print 製作太空垃圾 archive 做研究（點估到會有 Watch 嘅濕紙巾，掉左佢，不如比老思消毒好過啦！）。另外藝術家亦模擬呢啲太空垃圾喺太空漂浮嘅片段，加上流行曲，對比出人類喺太空掉垃圾嘅荒謬。同上一 part 嘅重力對比，一重一輕，太空「跌」稀土比我地，人類就以垃圾回敬，《Dropped》呈現左整個不對等關係。
+
+其實最近都有冇啦啦諗起關於太空垃圾嘅問題，因為我喺到諗，超新星仲唔係最 sustainable 嘅焚化爐咩？ 點解我地唔掉垃圾上太空呢？ 《Dropped》表示我地關心太空環保問題嘅原因係垃圾會為太空飛行帶來危險，或者到最後，呢啲關心都只不過係人類中心主義嘅產物。
+
+
+(2021-10-16)
+
