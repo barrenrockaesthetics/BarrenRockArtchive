@@ -19,5 +19,9 @@ Directors:
 
 最後不滿就係冇左 “Father?” “Irulan, you must leave.” 一幕、美男子 Feyd Rautha 同 Guild Navigator 個撚屌口郁郁下啊！
 
+#### 參考目錄 Reference List
+1. Villeneuve, D. (2021) *Dune*. [Film]. Warner Bros. Pictures.  
+2. Lynch, D. (1984) *Dune*. [Film]. Universal Pictures.
+
 _  
 (2021-09-22)

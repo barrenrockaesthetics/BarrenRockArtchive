@@ -1,22 +1,16 @@
----
-title: "遊樂場記，2021"
-date: "2022.01.04"
-original_url: "https://barrenrockaesthetics.cargo.site/2021"
----
-
 # 遊樂場記，2021
 
 ```
 Exh: "antiplayground"
 ExhPeriod: "2022.01.04"
-Curators: #optional
+Curators: 
 - "趙朗天 Alain CHIU"
 - "何映宜 HO Ying Yi"
 ```
 ```
 Exh: "我們的抽象遊戲地景 Our Abstract Playscapes"
 ExhPeriod: "2022.01.04"
-Curators: #optional
+Curators: 
 - "樊樂怡 Helen FAN"
 ```
 
@@ -25,7 +19,7 @@ Curators: #optional
 
 兩年間，城市空間盡失，疫情後更甚，尤其是遊玩空間，對於兒童和家長來說都是一大挑戰。在疫情下回顧遊玩空間的重要性在於了解我們何以在困境下成長。智樂兒童遊樂協會與拓展公共空間早前發佈了他們於疫情期間研究兒童遊戲的成果，希望重新強調遊玩空間應是一個城市的基礎設施。
 
-// Man is only fully human when he plays! // (Schiller, F., & Snell, R., 2004).
+> *Man is only fully human when he plays!* (Schiller, F., & Snell, R., 2004).
 
 ## **在「非空間」遊玩！**
 
@@ -51,10 +45,10 @@ antiplayground 證明我們的遊玩能力並沒有過期，足以抗衡「遊�
 
 石籬遊樂場的紀錄片是展覽中另一珍藏，片段相信由設計師 Paul Selinger 自行拍攝，因為 Helen 的研究而在多年後發現並公開。片段除了記錄當年香港建造業的巧手，更引人入勝的是在遊樂場未完成便已經在玩耍的孩童，正好體現自由遊戲（Free Play）及其創造力。遊戲是兒童的日常，是他們了解世界、學習與人建立關係的重要途徑，自由遊戲受 Montessori、Waldorf 等早期兒童教育理論高度重視，其重點在於提供無限可能的遊戲，培養兒童的創造力。遊樂場是為遊戲而生的場所，抽象語言正能讓遊戲者自行詮釋並創造。討論抽象遊戲地景，除了反思現有的自由地貌，更關懷我們期盼擁有（或保有）的思維模式。
 
-###### 石籬遊樂場的紀錄片 [^a3]
+###### 石籬遊樂場的紀錄片
 ![image](./img/img6.png)
 
-## **遊玩作為權利與實踐**
+### 遊玩作為權利與實踐
 
 有人會說遊戲是「未發展的藝術行為」（”undeveloped art production”）（Luostarinen, N., & Hautio, M., 2019），它們的相同之處包括展現自由和創造力的能力。 antiplayground 的藝術語言，與「香港抽象遊戲地景」的研究任務顯然不一，兩者能互相呼應，不單是因為他們有共同的媒介－遊樂場，亦因為遊玩和藝術實踐正共同地關心創意實踐，及其創造空間與事物的能力。antiplayground 提醒我們在亂世可創造我們自己的空間，而這能力需要自由的遊樂場培養；創造力是我們應該擁有的，享有自由的遊樂場是我們基本的權利。
 
