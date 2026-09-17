@@ -187,30 +187,35 @@ All monthly `筆記合集` compilations have now been split into individual date
 
 > This tree is illustrative, not exhaustive or byte-for-byte current — the archive keeps growing (new years, new entries, occasional `text-sc.md` for Simplified Chinese) faster than this doc is refreshed. See `CONTENT.md` for the authoritative, up-to-date list of every entry and its path.
 
-## 9. CONTENT.md table format
+## 9. CONTENT.md format
 
-`CONTENT.md` is a year-grouped set of Markdown tables, one table per year (an earlier version used a `├──`/`│` ASCII tree with a raw pipe-separated info line under each entry — retired 2026 in favor of this; before that, an even earlier version used a single flat table across all years — also retired). Rules:
+`CONTENT.md` is a year-grouped index, two lines per entry (this is the fourth format the file has used: a `├──`/`│` ASCII tree with a raw info line, then a one-table-per-year Markdown table, then a pipe-per-block/space-joined-fields variant, all retired 2026 in favor of this — each prior version was either hard to scan, wasted width on sparse entries, or didn't visually separate fields within a segment from the segments themselves). Rules:
 
-- Group by year with a `## <year>` heading, newest year first (`2026` at the top); within a year, newest entry first by its folder date prefix.
+- Group by year with a `### <year>` heading (not `##`), newest year first (`2026` at the top); within a year, newest entry first by its folder date prefix.
 - Only real entries with actual text content are listed — empty/placeholder folders (see §8) are left out entirely, not shown as stubs.
-- Each year's table has exactly four columns: `Entry | Exhibition | Artist(s) | Year`.
-  - **Entry**: a markdown link, text = the entry's folder name (date prefix + title), target = its GitHub path (`https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/<year>/<folder>`), percent-encoded so the link works despite spaces/CJK/punctuation in folder names.
-  - **Exhibition**: the value of the entry's first info block's title field (`Exh`/`Film`/`Perf`/`DesignItem`/`Album`) — i.e. what the piece is about, not what type of block it came from.
-  - **Artist(s)**: the corresponding people field (`Artists`/`Directors`/`Designers`), comma-joined if there are several. If the entry has no type-marker field but does have a people field on its own (e.g. an `Artists`-only or `Author`-only block), still show it here rather than falling back to `N/A`.
-  - **Year**: the year parsed out of the matching period field (`ExhPeriod`/`FilmYear`/`PerfDay`/`DesignYear`/`AlbumYear`) — the exhibition/work's own year, not the entry's publish date. These two years often differ (a post reviewing a show that opened the previous year, a film review written well after release) — that's expected, not an error.
-  - A piece covering 2+ exhibitions/films/performances (§4.2) is represented by its *first* info block only — the table doesn't grow extra rows or columns for the rest.
-  - Whichever of these a given entry doesn't have (no info block at all, or a block missing that particular field) gets `N/A` in that cell — never fabricated.
-- Escape any literal `|` inside a cell value as `\|` so it doesn't break the table.
+- Each entry is exactly two lines, both ending in a trailing double-space (markdown line break), no blank line between entries:
+  1. A **bold** markdown link: `**[text](url)**` — text = the entry's folder name (date prefix + title), target = its GitHub path (`https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/<year>/<folder>`), percent-encoded so the link works despite spaces/CJK/punctuation in folder names.
+  2. An **info line**, built as follows:
+     - The entry contributes one *segment* per info block it has, in source order — a piece covering 2+ exhibitions/films/performances (§4.2) gets one segment per block. Each segment is wrapped in its own `| ... |`, and consecutive segments share their touching pipe (`| segA | segB |`, not `| segA || segB |`). A plain essay with no info block at all gets `N/A` instead of a pipe-wrapped line.
+     - Within a segment, list fields by priority, **slash**-separated (`/`) — `/` separates fields within a segment, `|` separates segments from each other: (1) the block's title field (`Exh`/`Film`/`Perf`/`DesignItem`/`Album`); (2) `(Year)` parsed from its matching period field (`ExhPeriod`/`FilmYear`/`PerfDay`/`DesignYear`/`AlbumYear`), parenthesized; (3) every people field present, merged into one comma-joined list (`Artists`/`Curators`/`Directors`/`Designers`/`Creators`/`Author` — these are pooled together, not shown as separate slash-parts); (4) `Space` or `Venue`.
+     - Skip any of the four that isn't available in that block — never fabricate a placeholder for a missing field.
+     - A trailing "other" field (anything else in the block, e.g. `Artwork`, `Performance`) is added after the 4, only if the line still fits under the length cap below.
+     - Cap the whole info line (pipes, slashes and all) at 80 characters; if it would run over, truncate and close with `...` (drop the trailing "other" field first, then hard-truncate the 4-field version if it's still too long).
+  - If a block has no title field at all (no `Exh`/`Film`/`Perf`/`DesignItem`/`Album`) but does have a people or space field on its own (e.g. an `Artists`-only or `Venue`-only block), still surface those rather than treating the segment as empty.
 - Keep it minimal — this is a scannable index, not a synopsis; don't add commentary beyond what the info block already says.
 
 Example (from the real file):
 ```
-## 2021
-
-| Entry | Exhibition | Artist(s) | Year |
-|---|---|---|---|
-| [2021-07-21 - 墨城：當代城市塑造的⽔墨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-07-21%20-%20...) | 墨城 Ink City | N/A | 2021 |
+### 2021
+**[2021-07-21 - 墨城：當代城市塑造的⽔墨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-07-21%20-%20...)**  
+| 墨城 Ink City / (2021) / 大館賽馬會藝方 Tai Kwun JC Contemporary |  
 ```
 
-When adding a new entry, regenerate/append to `CONTENT.md` rather than hand-copying an old row's shape — field presence genuinely differs by content type (§4.2), and the `Year` column always needs re-deriving from the period field, not copied from the folder's date prefix.
+Multi-block example:
+```
+**[2023-12-31 - 墨洗／安全島](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-12-31%20-%20...)**  
+| 《墨洗》— 新水墨運動《努力再玩》 / (2023) / 凌中雲, 阿三 | 《安全島》— 未竟之狀 / (2023) / 凌中雲, Christine Lee / WURE |  
+```
+
+When adding a new entry, regenerate/append to `CONTENT.md` rather than hand-copying an old line's shape — field presence genuinely differs by content type (§4.2), and the `(Year)` in the info line always needs re-deriving from the period field, not copied from the folder's date prefix.
 
