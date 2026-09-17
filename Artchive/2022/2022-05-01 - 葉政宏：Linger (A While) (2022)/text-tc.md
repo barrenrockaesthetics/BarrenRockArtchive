@@ -1,17 +1,11 @@
----
-title: "Linger (A While"
-date: "2022.05.01"
-original_url: "https://barrenrockaesthetics.cargo.site/2022-05"
----
-
-# Linger (A While
+# 葉政宏：Linger (A While) (2022)
 
 ```
-Exh: "Linger (A While"
-ExhPeriod: "2022.05.01"
+Exh: "Linger (A While)"
+ExhPeriod: "2022-03-26 - 2022-05-01"
 Space: "Hidden Space"
 Artists: 
-- "葉「中村」政宏"
+- "葉政宏 Masahiro Nakamura"
 ```
 
 ---
@@ -22,6 +16,6 @@ Artists:
 
 故事完喺一個毅然離家嘅決定，赤裸上身，背向嗰個過於擠迫、已經超載嘅地方。主角會去邊？我想像唔到會係一個點好嘅地方。
 
-
+_  
 (2022-05-01)
 

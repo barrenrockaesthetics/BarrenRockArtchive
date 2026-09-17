@@ -1,8 +1,8 @@
-# 不能承受的輕
+# 沈君怡：不能承受的輕 (2022)
 
 ```
 Exh: "不能承受的輕"
-ExhPeriod: "2022.05.21"
+ExhPeriod: "2022-05-16 - 2022-06-04"
 Space: "Grotto Fine Art"
 Artists: 
 - "沈君怡 SHUM Kwan Yi"

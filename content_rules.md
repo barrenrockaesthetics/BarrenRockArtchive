@@ -187,23 +187,30 @@ All monthly `筆記合集` compilations have now been split into individual date
 
 > This tree is illustrative, not exhaustive or byte-for-byte current — the archive keeps growing (new years, new entries, occasional `text-sc.md` for Simplified Chinese) faster than this doc is refreshed. See `CONTENT.md` for the authoritative, up-to-date list of every entry and its path.
 
-## 9. CONTENT.md tree format
+## 9. CONTENT.md table format
 
-`CONTENT.md` is a year-grouped tree, not a table (an earlier version of both this doc and `CONTENT.md` used a flat markdown table — retired in favor of this). Rules:
+`CONTENT.md` is a year-grouped set of Markdown tables, one table per year (an earlier version used a `├──`/`│` ASCII tree with a raw pipe-separated info line under each entry — retired 2026 in favor of this; before that, an even earlier version used a single flat table across all years — also retired). Rules:
 
-- Group by year, newest year first (`2026` at the top); within a year, newest entry first by its folder date prefix.
+- Group by year with a `## <year>` heading, newest year first (`2026` at the top); within a year, newest entry first by its folder date prefix.
 - Only real entries with actual text content are listed — empty/placeholder folders (see §8) are left out entirely, not shown as stubs.
-- Each entry's folder name is a markdown link to its GitHub path (`https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/<year>/<folder>`), percent-encoded so the link works despite spaces/CJK/punctuation in folder names.
-- Directly under the link, one line of **raw values** (no field labels) from that entry's info block (§4.2), pipe-separated (`|`), in the order the fields appear in the source file — e.g. `Exh | ExhPeriod | Space | Artists | Curators` for an exhibition, `Film | FilmYear | Directors` for a film. Multiple values within one field (e.g. several artists) are comma-joined within that field's slot, not given their own pipe segment.
-- Entries with no info block at all (plain essays, e.g. `2023-09-29 - dampheat`) get `N/A` instead.
+- Each year's table has exactly four columns: `Entry | Exhibition | Artist(s) | Year`.
+  - **Entry**: a markdown link, text = the entry's folder name (date prefix + title), target = its GitHub path (`https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/<year>/<folder>`), percent-encoded so the link works despite spaces/CJK/punctuation in folder names.
+  - **Exhibition**: the value of the entry's first info block's title field (`Exh`/`Film`/`Perf`/`DesignItem`/`Album`) — i.e. what the piece is about, not what type of block it came from.
+  - **Artist(s)**: the corresponding people field (`Artists`/`Directors`/`Designers`), comma-joined if there are several. If the entry has no type-marker field but does have a people field on its own (e.g. an `Artists`-only or `Author`-only block), still show it here rather than falling back to `N/A`.
+  - **Year**: the year parsed out of the matching period field (`ExhPeriod`/`FilmYear`/`PerfDay`/`DesignYear`/`AlbumYear`) — the exhibition/work's own year, not the entry's publish date. These two years often differ (a post reviewing a show that opened the previous year, a film review written well after release) — that's expected, not an error.
+  - A piece covering 2+ exhibitions/films/performances (§4.2) is represented by its *first* info block only — the table doesn't grow extra rows or columns for the rest.
+  - Whichever of these a given entry doesn't have (no info block at all, or a block missing that particular field) gets `N/A` in that cell — never fabricated.
+- Escape any literal `|` inside a cell value as `\|` so it doesn't break the table.
 - Keep it minimal — this is a scannable index, not a synopsis; don't add commentary beyond what the info block already says.
 
 Example (from the real file):
 ```
-├── 2021/
-│   ├── [2021-07-21 - 墨城：當代城市塑造的⽔墨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-07-21%20-%20...)
-│   │       墨城 Ink City | 2021-04-23 - 2021-08-01 | 大館賽馬會藝方 Tai Kwun JC Contemporary
+## 2021
+
+| Entry | Exhibition | Artist(s) | Year |
+|---|---|---|---|
+| [2021-07-21 - 墨城：當代城市塑造的⽔墨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2021/2021-07-21%20-%20...) | 墨城 Ink City | N/A | 2021 |
 ```
 
-When adding a new entry, regenerate/append to `CONTENT.md` rather than hand-copying an old row's shape — field order and presence genuinely differ by content type (§4.2).
+When adding a new entry, regenerate/append to `CONTENT.md` rather than hand-copying an old row's shape — field presence genuinely differs by content type (§4.2), and the `Year` column always needs re-deriving from the period field, not copied from the folder's date prefix.
 
