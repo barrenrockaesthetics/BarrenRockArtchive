@@ -80,7 +80,7 @@ Para2
 <!-- for all quotes and direct in-text citaions, use blockquote-->
 > quote[^1]
 
-> <H3>Quote as Subtitle 3</H3>
+>### *Quote as Subtitle 3* — someone (Year)
 Para3[^2]
 
 ###### ▼ Caption as cition of img3.jpg

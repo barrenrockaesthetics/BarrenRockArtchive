@@ -1,4 +1,4 @@
-# 目錄 Directory
+# 目錄 Content
 
 <!-- Index of every published entry, newest year and newest entry first. Per year: "### {Year}", then for each entry a bold title-link line followed by an info line. The info line wraps each info block the entry has in its own "| ... |" segment (multi-exhibition/film pieces get one segment per item, in source order, sharing pipes between them: "| A | B |"). Within a segment, fields are slash-separated in priority order: Exh/Film/Perf/Album/DesignItem title, (Year), Artists/Curators/Directors/Designers/Creators, Space/Venue — skip any that are not available. A trailing "other" field (e.g. Artwork, Performance) is added only if it still fits. The whole info line is capped at 80 chars, truncated with "..." if it would run over. No info block at all → "N/A". See content_rules.md §9. -->
 
