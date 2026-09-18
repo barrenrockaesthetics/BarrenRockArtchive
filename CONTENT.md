@@ -20,19 +20,19 @@
 
 ### 2023
 **[2023-12-31 - 墨洗／安全島](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-12-31%20-%20%E5%A2%A8%E6%B4%97%EF%BC%8F%E5%AE%89%E5%85%A8%E5%B3%B6)**  
-| 《墨洗》— 新水墨運動《努力再玩》 / (2023) / 凌中雲, 阿三 | 《安全島》— 未竟之狀 / (2023) / 凌中雲, Christin...  
+| 《墨洗》— 新水墨運動《努力再玩》 / (2023) / 凌中雲, 阿三 / 包氏畫廊 | 《安全島》— 未竟之狀 / (2023) / 凌中雲...  
 **[2023-12-21 - 下垂眼皮前有些田顯影了](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-12-21%20-%20%E4%B8%8B%E5%9E%82%E7%9C%BC%E7%9A%AE%E5%89%8D%E6%9C%89%E4%BA%9B%E7%94%B0%E9%A1%AF%E5%BD%B1%E4%BA%86)**  
-| 黃慧心個展「下垂眼皮的陰影裏有些田」 / (2023) / 黃慧心 Winsome / 張靜蘭實驗畫廊 香港藝術中心三樓 |  
-**[2023-11-28 - Currently Still Planning to Perform](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-11-28%20-%20Currently%20Still%20Planning%20to%20Perform)**  
-| Currently Still Planning to Perform / (2023) / @currentplans, @per.flatform...  
+| 黃慧心個展「下垂眼皮的陰影裏有些田」 / (2023) / 黃慧心 Winsome / 張靜蘭實驗畫廊 |  
+**[2023-11-28 - Currently Still Planning to Perform (2023)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-11-28%20-%20Currently%20Still%20Planning%20to%20Perform%20(2023))**  
+| Currently Still Planning to Perform / (2023) / 小林勇輝 YUKI Kobayashi, 何知穎 HO ...  
 **[2023-11-24 - 謐靜的冥湖](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-11-24%20-%20%E8%AC%90%E9%9D%9C%E7%9A%84%E5%86%A5%E6%B9%96)**  
-| 無以名狀 Vol. III — 歐律狄刻的謐息 / (2023) / 劉杭霖 Avery Lau / Touch Gallery, Shop 103 ...  
+| 無以名狀 Vol. III — 歐律狄刻的謐息 / (2023) / 劉杭霖 Avery LAU / Touch Gallery |  
 **[2023-11-07 - （原味）計劃 2.0](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-11-07%20-%20%EF%BC%88%E5%8E%9F%E5%91%B3%EF%BC%89%E8%A8%88%E5%8A%83%202.0)**  
 | (原味) 計劃 2.0 / (2023) / 陳幗慧 Chan Kwok Wai, 陳鑫洁 Chan Hing Kit, 鍾栢熹 Chung Pak ...  
 **[2023-09-29 - dampheat](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-09-29%20-%20dampheat)**  
 N/A  
-**[2023-09-24 - Creative Aging HK](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-09-24%20-%20Creative%20Aging%20HK)**  
-| 賽馬會「學藝再玩」創齡藝術計劃階段展 / (2023) / JCCAC 賽馬會創意藝術中心 L1藝廊 |  
+**[2023-09-24 - 賽馬會「學藝再玩」創齡藝術計劃階段展「時刻導賞員」 X 「無用石」展覽速報](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-09-24%20-%20%E8%B3%BD%E9%A6%AC%E6%9C%83%E3%80%8C%E5%AD%B8%E8%97%9D%E5%86%8D%E7%8E%A9%E3%80%8D%E5%89%B5%E9%BD%A1%E8%97%9D%E8%A1%93%E8%A8%88%E5%8A%83%E9%9A%8E%E6%AE%B5%E5%B1%95%E3%80%8C%E6%99%82%E5%88%BB%E5%B0%8E%E8%B3%9E%E5%93%A1%E3%80%8D%20X%20%E3%80%8C%E7%84%A1%E7%94%A8%E7%9F%B3%E3%80%8D%E5%B1%95%E8%A6%BD%E9%80%9F%E5%A0%B1)**  
+| 賽馬會「學藝再玩」創齡藝術計劃階段展 / (2023) / 張艾婷, 梁展峰, 丁穎筃 / 賽馬會創意藝術中心L1藝廊 |  
 **[2023-07-01 - 過去未來](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-07-01%20-%20%E9%81%8E%E5%8E%BB%E6%9C%AA%E4%BE%86)**  
 | 梁志和：過去的未來 / (2023) / 梁志和 / Blindspot Gallery |  
 **[2023-06-30 - 回望自身，立見此地 – 中大藝術系2023年藝術碩士畢業作品](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-06-30%20-%20%E5%9B%9E%E6%9C%9B%E8%87%AA%E8%BA%AB%EF%BC%8C%E7%AB%8B%E8%A6%8B%E6%AD%A4%E5%9C%B0%20%E2%80%93%20%E4%B8%AD%E5%A4%A7%E8%97%9D%E8%A1%93%E7%B3%BB2023%E5%B9%B4%E8%97%9D%E8%A1%93%E7%A2%A9%E5%A3%AB%E7%95%A2%E6%A5%AD%E4%BD%9C%E5%93%81)**  
@@ -41,11 +41,11 @@ N/A
 | 香港浸會大學視覺藝術院本科畢業展 2023 / (2023) / 甄穎聰, 王采薈, 郭海怡, 鄧頌螢 / 香港九龍觀塘道51號啟德校園 |  
 **[2023-05-17 - 他說對這裡沒有什麼特別的感受](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-05-17%20-%20%E4%BB%96%E8%AA%AA%E5%B0%8D%E9%80%99%E8%A3%A1%E6%B2%92%E6%9C%89%E4%BB%80%E9%BA%BC%E7%89%B9%E5%88%A5%E7%9A%84%E6%84%9F%E5%8F%97)**  
 | HILLTOP 山頭故事 / (2023) / 方梓亮 Argus / Grotto Fine Art |  
-**[2023-04-28 - 石頭](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-28%20-%20%E7%9F%B3%E9%A0%AD)**  
+**[2023-04-28 - 李瓊蝶：石頭（2023）](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-28%20-%20%E6%9D%8E%E7%93%8A%E8%9D%B6%EF%BC%9A%E7%9F%B3%E9%A0%AD%EF%BC%882023%EF%BC%89)**  
 | 石頭 / (2023) / 李瓊蝶 Milla Lee / Per.Platform 4 Hong Kong x BASE |  
-**[2023-04-27 - 火灼的天空](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-27%20-%20%E7%81%AB%E7%81%BC%E7%9A%84%E5%A4%A9%E7%A9%BA)**  
-| Afire (Roter Himmel) / (2023) / Christian Petzold |  
-**[2023-04-22 - The Longest Goodbye](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-22%20-%20The%20Longest%20Goodbye)**  
+**[2023-04-27 - Afire (2023)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-27%20-%20Afire%20(2023))**  
+| 火灼的天空 Afire / (2023) / Christian Petzold |  
+**[2023-04-22 - The Longest Goodbye (2023)](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-04-22%20-%20The%20Longest%20Goodbye%20(2023))**  
 | The Longest Goodbye / (2023) / Ido Mizrahy |  
 **[2023-02-03 - 和光同塵](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-02-03%20-%20%E5%92%8C%E5%85%89%E5%90%8C%E5%A1%B5)**  
 | 和光同塵 / 611, 曾永曦 Wilson Tsang, 黃衍仁 Wong Hin Yan |  

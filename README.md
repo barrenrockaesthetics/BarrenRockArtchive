@@ -1,5 +1,7 @@
 # Barren Rock Artchive Archive
 ## *** building in progress ***
+| **[ABOUT](https://)** | **[CONTENT](https://)** | **[GUI](https://barrenrockartchive.github.com)** #in progress |  
+
 
 This is an open-source art crtique archive, mainly based in Hong Kong, London and beyond. More will be explained when this project is fully updated. All progress and histories are open to be viewed publicly.
 
@@ -15,8 +17,7 @@ This is an open-source art crtique archive, mainly based in Hong Kong, London an
 **[2025-06-05 - 三文鱼丶Salmon丶鲑（さけ）](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2025/2025-06-05%20-%20%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%B6Salmon%E4%B8%B6%E9%B2%91%EF%BC%88%E3%81%95%E3%81%91%EF%BC%89)**  
 | 葉子菁 |  
 
-| **[ABOUT](https://)** | **[CONTENT](https://)** | **[GUI](https://barrenrockartchive.github.com)** #in progress |  
-
+---
 ### Why Github
 
 

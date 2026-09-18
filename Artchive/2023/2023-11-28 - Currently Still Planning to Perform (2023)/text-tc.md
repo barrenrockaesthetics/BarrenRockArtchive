@@ -1,30 +1,31 @@
-# Currently Still Planning to Perform
+# Currently Still Planning to Perform (2023)
 
 ```
 Perf: "Currently Still Planning to Perform"
 Venue: "Current Plans"
 PerfDay: "2023.11.24"
 Artists: 
-- "@currentplans"
-- "@per.flatform"
-- "@stilllive_official"
-- "@yukikobayashi0226"
-- "@chi_02.12"
-- "@sin.costansin"
-- "@kennethch0i"
-- "@mildmaia"
-- "@pengpeng.temple"
-- "@dan_mailbox"
-- "@yingmelody"
-- "@lum_vivian_"
-- "@monique_yim"
-- "@ash_bomb_ig"
-- "@floatingwik"
-- "@toi.yee"
-- "@pang_jing"
-- "@glochanglochan"
-- "@juuulie_may"
-- "@florencelamsoyue"
+- "小林勇輝 YUKI Kobayashi"
+- "何知穎 HO Chi Wing"
+- "汪倩 WONG Sin"
+- "Kenneth CHOI"
+- "馬賢 Maia MAH"
+- "碰碰廟宇 Peng Peng Temple"
+- "Dan"
+- "黎愷盈 Melodie LAI Hoi Ying "
+- "王穎琳 Vivian WONG Wing Lum"
+- "嚴穎嘉 Monique YIM"
+- "梁晞堯 Ashley LEUNG"
+- "馬域 MA Wik"
+- "吳玳誼 Doris NG Toi Yee"
+- "彭靖 PANG Jing"
+- "陳卓甄 Glo CHAN Cheuk Yan"
+- "Julie May"
+- "Florence LAM"
+Curators:
+- "Current Plans"
+- "Per.Platform"
+- "Stilllive"
 ```
 
 ---
@@ -34,6 +35,5 @@ Artists:
 
 開心睇到 per.platform 嘅家庭壯大左好多，多謝佢地同 Stilllive 嘅演出，亦祝福同期待 @eeunicee 會帶來嶄新嘅 Current Plans。
 
-_
-
+_  
 (2023-11-28)

@@ -49,5 +49,5 @@ Artists:
 
 _  
 (2021.07.29)  
-*本文原刊於「香港視覺藝術評論培育計劃 2021」：https://www.oneaspace.org.hk/art-critic-2021/媒介與時間  
+*原文載於「香港視覺藝術評論培育計劃 2021」：https://www.oneaspace.org.hk/art-critic-2021/媒介與時間。  
 *This article was originally published for Hong Kong Visual Art Criticism Incubation Programme 2021: https://www.oneaspace.org.hk/art-critic-2021/%E5%AA%92%E4%BB%8B%E8%88%87%E6%99%82%E9%96%93  

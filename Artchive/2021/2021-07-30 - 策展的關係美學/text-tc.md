@@ -33,6 +33,7 @@ Space: "WURE AREA"
 3. Tömmel, T. and d’Entreves, M.P. (2019) 'Hannah Arendt', in Zalta, E.N. and Nodelman, U. (eds.) The Stanford Encyclopedia of Philosophy. Spring 2025 edn. Available at: [https://plato.stanford.edu/archives/spr2025/entries/arendt/](https://plato.stanford.edu/archives/spr2025/entries/arendt/).
 4. 《溫床》（2021）〔展覽〕。WURE AREA，香港。
 
-_
-
-(2021-07-30)
+_  
+(2021-07-30)  
+*原文載於「香港視覺藝術評論培育計劃 2021」：https://zh.oneaspace.org.hk/art-critic-2021/%E7%AD%96%E5%B1%95%E7%9A%84%E9%97%9C%E4%BF%82%E7%BE%8E%E5%AD%B8。  
+*This article was originally published for Hong Kong Visual Art Criticism Incubation Programme 2021: https://zh.oneaspace.org.hk/art-critic-2021/%E7%AD%96%E5%B1%95%E7%9A%84%E9%97%9C%E4%BF%82%E7%BE%8E%E5%AD%B8

@@ -1,8 +1,9 @@
-# 石頭
+# 李瓊蝶：石頭（2023）
 
 ```
-Perf: "石頭"
-Venue: "Per.Platform 4 Hong Kong x BASE"
+Perf: "Per.Platform 4 Hong Kong x BASE"
+Venue: "BASE"
+Artwork: "石頭"
 PerfDay: "2023.04.15"
 Artists: 
 - "李瓊蝶 Milla Lee"
@@ -15,6 +16,9 @@ Artists:
 
 在 Florence 與伙伴的策劃下，她們的即興行為多以身體跟一物件，以一至兩組但多變的互動，以大約 45 分鐘的長時間，探索自己、探索觸感，迫出自己的歷史跟情感。 per.platform 來到第4屆，以新物料為題，交出更多不同個體與身體、與物料的互動形式。來自跟大自然較近的台灣的 Milla ，則借石頭呈現一個火快、爆炸力十足，或許更接近日常情感崩潰狀態的展演。
 
-_
+---
+#### 參考目錄 Reference List
+1. 李瓊蝶（2023）。《石頭》。〔行為表演〕。BASE，香港。
 
+_  
 (2023-04-28)

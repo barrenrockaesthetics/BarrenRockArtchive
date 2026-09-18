@@ -1,21 +1,24 @@
 # 墨洗／安全島
 
 ```
-Exh: "《墨洗》— 新水墨運動《努力再玩》"
-ExhPeriod: "2023.11.29 - 2023.12.12"
-Curators: 
-- "阿三"
+Exh: "水墨藝博2023—新水墨運動系列展覽II《努力再玩》 Ink Asia 2023—Keep Up the Good Fun"
+ExhPeriod: "2023-11-29 - 2023-12-12"
+Space: "包氏畫廊 Pao Galleries"
+Artwork: "墨洗"
 Artists: 
-- "凌中雲"
+- "凌中雲 Kevin LING"
+Curators: 
+- "阿三 CHAN Sai Lok"
 ```
 ```
-Exh: "《安全島》— 未竟之狀"
-ExhPeriod: "2023.11.25 - 2023.12.17"
-Space: "WURE"
-Curators: 
-- "Christine Lee"
+Exh: "未竟之狀 UNfinished: The Invisible Condition"
+ExhPeriod: "2023-11-25 - 2023-12-17"
+Space: "WURE AREA"
+Artwork: "安全島"
 Artists: 
-- "凌中雲"
+- "凌中雲 Kevin LING"
+Curators: 
+- "李曉婷 Christine LEE"
 ```
 
 ---
@@ -25,6 +28,10 @@ Artists:
 
 攝影喺《墨洗》中較為係一種紀錄同展示嘅方式，但對讀凌中雲同期作品《安全島》，兩者同樣用水洗地漬嘅方法製造圖像，兩份攝影作品同樣可以探問影像嘅時效性。雖然兩者未必可以講係同系列作品，但藝術家巧妙咁一方面疊加有時效性嘅寶麗來相片，去回應「未竟之狀」嘅不確定狀態，另一方面展示創作過程，聚焦流動嘅墨水，回應「玩水墨」之題。同一想法，同一技法，同時滿足兩個截然不同嘅題目，游刃有餘。
 
-_
+---
+#### 參考目錄 Reference List
+1. 凌中雲（2023）。《墨洗》。〔攝影〕。水墨藝博2023—新水墨運動系列展覽II《努力再玩》，包氏畫廊，香港。
+2. 凌中雲（2023）。《安全島》。〔攝影〕。未竟之狀，WURE AREA，香港。
 
+_  
 (2023-12-31)

@@ -33,5 +33,5 @@ Space: "大館賽馬會藝方 Tai Kwun JC Contemporary"
 
 _  
 (2021-07-21)  
-*本文原刊於「香港視覺藝術評論培育計劃 2021」:https://www.oneaspace.org.hk/art-critic-2021/%E5%A2%A8%E5%9F%8E%EF%BC%9A%E7%95%B6%E4%BB%A3%E5%9F%8E%E5%B8%82%E5%A1%91%E9%80%A0%E7%9A%84%E6%B0%B4%E5%A2%A8  
+*原文載於「香港視覺藝術評論培育計劃 2021」:https://www.oneaspace.org.hk/art-critic-2021/%E5%A2%A8%E5%9F%8E%EF%BC%9A%E7%95%B6%E4%BB%A3%E5%9F%8E%E5%B8%82%E5%A1%91%E9%80%A0%E7%9A%84%E6%B0%B4%E5%A2%A8。  
 *This article was originally published on oneaspace.org.hk under 1a Art-Critic Incubation Programme 2021: https://www.oneaspace.org.hk/art-critic-2021/%E5%A2%A8%E5%9F%8E%EF%BC%9A%E7%95%B6%E4%BB%A3%E5%9F%8E%E5%B8%82%E5%A1%91%E9%80%A0%E7%9A%84%E6%B0%B4%E5%A2%A8  

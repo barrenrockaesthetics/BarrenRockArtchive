@@ -1,14 +1,14 @@
-# 火灼的天空
+# Afire (2023)
 
 ```
-Film: "Afire (Roter Himmel)"
+Film: "火灼的天空 Afire"
 FilmYear: "2023"
 Directors: 
 - "Christian Petzold"
 ```
 
 ---
-Afire (Roter Himmel) 係 Christian Petzold 繼 Undine 後，第二套「元素」之作－ Undine 將水底同誘惑相連，而 Afire 就用山火無聲無色咁燒向「社交遲鈍」嘅主角 Leon 身上。
+*Afire (Roter Himmel)*係 Christian Petzold 繼 Undine 後，第二套「元素」之作－ Undine 將水底同誘惑相連，而 Afire 就用山火無聲無色咁燒向「社交遲鈍」嘅主角 Leon 身上。
 
 Leon 本身係打算去一個可以專心寫書，朋友 Felix 可以專心做作品集嘅「假期」，偏偏遇上 Felix 媽嘅朋友 Nadja。喺整個「假期」入面，佢不斷用「忙」、「要寫書」嘅藉口去拒絕同其他人去玩嘅邀請，但其實自己每次做嘢亦唔專心，經常瞓著。寫唔到書嘅佢甚至開始對身邊人不滿，出言中傷，亦唔參與喺其他人嘅社交同別墅嘅實務之中。同時，佢又愛上左火辣開放嘅 Nadja，但不善溝通嘅佢唔敢親近人。直到電影後段，Leon 嘅編輯突然要送院，Leon 同 Nadja 離開醫院返去別墅後亦唔見 Felix 同佢男伴，得知佢地被山火燒死後嘅 Nadja 頂唔順要向 Leon ，對佢之前所有行為攤牌，狠狠地指出佢成日只顧自己，對其他人冇同理心，亦冇察覺身邊嘅人同事，見到朋友被燒死亦毫無反應。
 
@@ -22,6 +22,9 @@ Leon 本身係打算去一個可以專心寫書，朋友 Felix 可以專心做�
 
 Afire 利用電影聚焦劇情嘅特性，去講一個忽略生活細節，唔能夠同理他人嘅人，同時亦將故事一早放喺觀眾同樣容易忽略嘅地方。電影未必有落力隱瞞，但或者會令你隨住電影推進成為 Leon 。 人眼焦點有限，但我地總係想關懷更多，留意更多，但幾多會我係我地嘅極限，不至於耗盡自己，又不至於 Leon 之流呢？
 
-_
+---
+#### 參考目錄 Reference List
+1. Petzold, C. (2023) *Afire* [Film]. Schramm Film Koerner Weber Kaiser.
 
+_  
 (2023-04-27)
