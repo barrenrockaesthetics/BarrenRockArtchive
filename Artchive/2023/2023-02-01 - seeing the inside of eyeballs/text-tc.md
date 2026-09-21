@@ -9,7 +9,7 @@ Artists:
 ```
 
 ---
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Exhibition (Installation view), Photo by: Author.
+###### ▼ Exhibition (Installation view) of *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
 ![image](./img/banner.jpg)
 
 >### *從遇見它的那一刻我就知道它好想念舊屋，因為表面上的藍色水痕是它在哭的證據*
@@ -18,7 +18,7 @@ Jessie 首次回港的個人計劃－ *It Has to Be Apart It Has to Be Alone*（
 
 入門不久便遇上的英國香港小硬幣拓印，取材自 Jessie 到埗荷蘭進修後，發現兩顆偷偷跟著自己的硬幣。這樣的開始、廢屋的設置，加上 Jessie 與 Eyeball Maniac 的演出和獨白，觀眾不難發現這是一個關於過去、離家與回家的故事。計劃的另一部份－*Struggling Artists Special Edition Jan 2023* （展覽冊）中，亦有 Jessie 與藝術作者 MeMe 以不同文體和角度，闡述展覽中的「家」的文章，冊子的設計亦十分美觀，非常建議大家收藏一本（有意者請自行聯絡 Jessie ）。所以我想，不如我們來觀看一下展覽的其他部分吧。
 
-###### ▼ Durational performance by Jessie. It Has to Be Apart It Has to Be Alone (2023). Photo by: Author.
+###### ▼ Durational performance by Jessie at *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
 ![image](./img/img1.jpg)
 
 >### *如果哭是從眼晴裡來，我想我一早已經看到眼晴的裡面*
@@ -27,13 +27,10 @@ Jessie 將展覽空間打造成眼珠那間開半的舊居，讓理想的窗、�
 
 演出後我問 Jessie 在石膏眼內有否看到甚麼，她說只有漆黑一片；的確，瞳孔的顏色早就告訴我們，眼珠內的世界是黑色的。
 
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Installation view (Close-up), Photo by: Author.
+###### ▼ Details of *It Has to Be Apart It Has to Be Alone* (2023). Photos by: Author.
 ![image](./img/img2.jpg)
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Installation view (Close-up), Photo by: Author.
 ![image](./img/img3.jpg)
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Installation view (Close-up), Photo by: Author.
 ![image](./img/img4.jpg)
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Installation view (Close-up), Photo by: Author.
 ![image](./img/img5.jpg)
 
 >### *I want the eyeballs see themselves cut in half*
@@ -44,9 +41,9 @@ Jessie 的創作媒介多得瘋狂，繪畫、影像、現成物、裝置、文�
 
 或許 Jessie 大部份作品也源於悄悄話：在*Be Friend OK？*(2019)中與鵝交友的「對話」，以及*Will You Pick Me Up Tomorrow*(2021)中扮演成藝術界各持份者的 MeMe 劇場，都以話語直白地說出了 Jessie 當下的思考和情感。*Will You Pick Me Up Tomorrow*(2021)中出現的角色－藝術作者 MeMe 亦在再次在《AA》展覽冊中，訪問為展覽主角 Eyeball Maniac 演出獨白的表演者 Jessie ，她如何呈現一個因自己偶遇到的拾遺物而想像／照見的世界。 Jessie 早就在玩這個不斷為自己建立第三身，然後觀看自己的遊戲，甚至為自己建立起自己的藝術論述。
 
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Exhibition (Installation view), Photo by: Author.
+###### ▼ Exhibition (Installation view) of *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
 ![image](./img/img6.jpg)
-###### ▼ Durational performance by Jessie. *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
+###### ▼ Durational performance by Jessie at *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
 ![image](./img/img7.jpg)
 
 >### *I did not ask you to come by, why did you?*
@@ -57,7 +54,7 @@ Jessie 的創作媒介多得瘋狂，繪畫、影像、現成物、裝置、文�
 
 《AA》沒有告訴我們眼珠看見舊居後的反應和去向，只知道 Eyeball Maniac 知道她一定會很傷心。 Eyeball Maniac 最後把尖刺的月亮掛在窗（投影）旁的窗簾，為眼珠說一個追尋月光的故事。《AA》不只是關於對舊居的不安，更總結了 Jessie 在外的經歷、秘語和藝術實踐（ art practice ）。與日記對半，展覽亦可以看作 Jessie 這幾年在文字以外的另一紀錄。
 
-###### ▼ *It Has to Be Apart It Has to Be Alone* (2023). Exhibition (Installation view), Photo by: Author.
+###### ▼ Exhibition (Installation view) of *It Has to Be Apart It Has to Be Alone* (2023). Photo by: Author.
 ![image](./img/img8.jpg)
 
 ---

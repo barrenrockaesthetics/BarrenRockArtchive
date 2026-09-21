@@ -8,15 +8,15 @@
 
 ### 2025
 **[2025-08-29 - 徐冰在香港:英文方塊字書法](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2025/2025-08-29%20-%20%E5%BE%90%E5%86%B0%E5%9C%A8%E9%A6%99%E6%B8%AF%3A%E8%8B%B1%E6%96%87%E6%96%B9%E5%A1%8A%E5%AD%97%E6%9B%B8%E6%B3%95)**  
-| 徐冰在香港：英文方塊字書法 / (2025) / 徐冰 Xu Bing / 香港藝術館別館 |  
-**[2025-06-05 - 三文鱼丶Salmon丶鲑（さけ）](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2025/2025-06-05%20-%20%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%B6Salmon%E4%B8%B6%E9%B2%91%EF%BC%88%E3%81%95%E3%81%91%EF%BC%89)**  
-| 葉子菁 |  
+| 徐冰在香港：想東想西──英文方塊字書法教室 Xu Bing in Hong Kong: Eying East, Wondering West — Sq...  
+**[2025-06-05 - 三文魚、Salmon、鮭（さけ）](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2025/2025-06-05%20-%20%E4%B8%89%E6%96%87%E9%AD%9A%E3%80%81Salmon%E3%80%81%E9%AE%AD%EF%BC%88%E3%81%95%E3%81%91%EF%BC%89)**  
+| 葉子菁 Zejing Rie Ye / breeding migration – made in…, Holdout, breeding migration exp. 2, No...  
 
 ### 2024
 **[2024-03-31 - 鳥的形狀](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2024/2024-03-31%20-%20%E9%B3%A5%E7%9A%84%E5%BD%A2%E7%8B%80)**  
-| Bird of Shape / (2024) / Ivy Ma, Carol Chau, 文美桃 Man Mei To, June Wong, Jam...  
+| Bird of Shape - A Non-Solo of Ivy Ma, in association with Carol Chow, Man M...  
 **[2024-03-05 - Piña, Why is the Sky Blue?](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2024/2024-03-05%20-%20Pi%C3%B1a%2C%20Why%20is%20the%20Sky%20Blue%3F)**  
-| 青蛇：女性中心的生態學 / (2023) / Stephanie Comilang, Simon Speiser / Tai Kwun Contemp...  
+| 青蛇：女性中心的生態學 / (2023) / Stephanie Comilang, Simon Speiser / 大館賽馬會藝方 Tai Kwun...  
 
 ### 2023
 **[2023-12-31 - 墨洗／安全島](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2023/2023-12-31%20-%20%E5%A2%A8%E6%B4%97%EF%BC%8F%E5%AE%89%E5%85%A8%E5%B3%B6)**  
