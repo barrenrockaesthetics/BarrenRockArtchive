@@ -3,6 +3,8 @@
 <!-- Index of every published entry, newest year and newest entry first. Per year: "### {Year}", then for each entry a bold title-link line followed by an info line. The info line wraps each info block the entry has in its own "| ... |" segment (multi-exhibition/film pieces get one segment per item, in source order, sharing pipes between them: "| A | B |"). Within a segment, fields are slash-separated in priority order: Exh/Film/Perf/Album/DesignItem title, (Year), Artists/Curators/Directors/Designers/Creators, Space/Venue — skip any that are not available. A trailing "other" field (e.g. Artwork, Performance) is added only if it still fits. The whole info line is capped at 80 chars, truncated with "..." if it would run over. No info block at all → "N/A". See content_rules.md §9. -->
 
 ### 2026
+**[2026-09-25 - So Far (Al)so True!](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2026/2026-09-25%20-%20So%20Far%20(Al)so%20True!)**  
+| So Far So True / (2026) / 小東 Siu Tung Venus, 蟻穎琳 NGAI Wing Lam...  
 **[2026-06-03 - 我的私生活很亂，歡迎光臨](https://github.com/barrenrockaesthetics/BarrenRockArtchive/tree/main/Artchive/2026/2026-06-03%20-%20%E6%88%91%E7%9A%84%E7%A7%81%E7%94%9F%E6%B4%BB%E5%BE%88%E4%BA%82%EF%BC%8C%E6%AD%A1%E8%BF%8E%E5%85%89%E8%87%A8)**  
 | 我的私生活很亂，歡迎光臨 / (2026) / 馬域 |  
 
