@@ -4,7 +4,7 @@
 
 ###### *we are still migrating from the old website and instagram. please bear with us*
 
-喺香港同其他地方記低石嘅形狀——目標係成為最好嘅觀眾！
+喺香港同其他地方記低石嘅形狀——目標係成為最好嘅觀眾！  
 This is an open-source art crtique archive, mainly based in Hong Kong, London and beyond —— I practice towards becoming the best audience member!
 
 <!-- show the lastest 3 entries -->
