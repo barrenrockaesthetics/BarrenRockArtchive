@@ -1,5 +1,5 @@
 # Barren Rock Artchive Archive
-| **[ABOUT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/ABOUT.md)** | **[CONTENT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/CONTENT.md)** | **GUI** (coming soon...) |  
+| **[ABOUT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/About)** | **[CONTENT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/CONTENT.md)** | **GUI** (coming soon...) |  
 
 ###### *we are still migrating from the old website and instagram. some photos are missing. please bear with us*
 
