@@ -2,8 +2,10 @@
 ## *** building in progress ***
 | **[ABOUT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/ABOUT.md)** | **[CONTENT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/CONTENT.md)** | **GUI** (coming soon...) |  
 
+###### *we are still migrating from the old website and instagram. please bear with us*
 
-This is an open-source art crtique archive, mainly based in Hong Kong, London and beyond. More will be explained when this project is fully updated. All progress and histories are open to be viewed publicly.
+喺香港同其他地方記低石嘅形狀——目標係成為最好嘅觀眾！
+This is an open-source art crtique archive, mainly based in Hong Kong, London and beyond —— I practice towards becoming the best audience member!
 
 <!-- show the lastest 3 entries -->
 ### Latest Entries: 
