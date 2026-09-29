@@ -1,8 +1,7 @@
 # Barren Rock Artchive Archive
-## *** building in progress ***
 | **[ABOUT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/ABOUT.md)** | **[CONTENT](https://github.com/barrenrockaesthetics/BarrenRockArtchive/blob/main/CONTENT.md)** | **GUI** (coming soon...) |  
 
-###### *we are still migrating from the old website and instagram. please bear with us*
+###### *we are still migrating from the old website and instagram. some photos are missing. please bear with us*
 
 喺香港同其他地方記低石嘅形狀——目標係成為最好嘅觀眾！  
 This is an open-source art crtique archive, mainly based in Hong Kong, London and beyond —— I practice towards becoming the best audience member!
