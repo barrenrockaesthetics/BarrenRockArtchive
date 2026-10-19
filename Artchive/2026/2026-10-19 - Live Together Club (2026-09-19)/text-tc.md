@@ -1,22 +1,19 @@
 # 【現場筆記 Live Notes】Live Together Club (2026.09.19)
 
 ```
-Perf: "Live Together Club"
-Artwork: "Touch me, draw me"
+Perf: "Touch me, draw me"
 PerfDay: "2026.09.19"
 Artists: 
 - "李偉能 Joseph LEE"
 ```
 ```
-Perf: "Live Together Club"
-Artwork: "PERMANENTLY UNLANDED"
+Perf: "PERMANENTLY UNLANDED Section 1: wrapped in It’s been good (Graits!), Section 2: (adapted version), Section 3: “But it feels like your second home, right?” She asked."
 PerfDay: "2026.09.19"
 Artists: 
 - "黃姬雪 WONG Kei Suet Ice"
 ```
 ```
-Perf: "Live Together Club"
-Artwork: "temporary balance"
+Perf: "temporary balance"
 PerfDay: "2026.09.19"
 Artists: 
 - "高穎琳 Kobe KO"
