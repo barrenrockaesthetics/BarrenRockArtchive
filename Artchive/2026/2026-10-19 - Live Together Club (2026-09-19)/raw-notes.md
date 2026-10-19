@@ -8,7 +8,7 @@
 
 [3]  
 繼續動的model，繼續比力。震動，保持，痛苦？面具？ …… 過左一陣冇睇到，原來已經變左pose。 
- 
+   
 ---
 
 ### *PERMANENTLY UNLANDED* (2026) by Ice Wong
@@ -24,7 +24,7 @@ Ride a suitcase, to escape the square? Push me back, land me anywhere. Unsettlin
 
 *Section 3: “But it feels like your second home, right?” She asked.*  
 A milk tea stand. Vita, Lipton, Fairwood, they are the Hongkongese right? Two teabags per cup. “Tlick” is the boiling sound when you look for boiling water outside home. 黑白淡奶, accompanied best by teaspoon, easy and pramatic. Half pack of white sugar from Cafe de Carol.  
-
+  
 ---  
 
 ### *Highball - temporary balance* (2026) by Highball (Kobe Ko and Kevin Ling)  
