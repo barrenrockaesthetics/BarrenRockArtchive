@@ -23,6 +23,7 @@ The large paper unfolded. It is really a suitcase, but unthought to be having th
 Ride a suitcase, to escape the square? Push me back, land me anywhere. Unsettling sounds, there is a green lemonade ceramic bowl inside, with a tiny cute handle. Push me back, there is milktea cup inside. The suitcase is bending, there is another sharing cup (?). The paper starts to wrinkling, there is another dark navy cup. Why would you keep leaving the square and ask for help? That is intentional you may know. This time it is a sky blue one. Safety is the first pirority. This time, we land on somewhere outside. It is a cup with trees printed on it, and we still have a tiny wrapping paper from the cup. Another one landed outside, it is a complete white one. Socks are clumpsy. Barefoot is great. The cup needs a bigger handle. Sometimes we need to fix the orientation of the suitcase. This time you chose to leave with it. 
 
 *Section 3: “But it feels like your second home, right?” She asked.*  
+
 A milk tea stand. Vita, Lipton, Fairwood, they are the Hongkongese right? Two teabags per cup. “Tlick” is the boiling sound when you look for boiling water outside home. 黑白淡奶, accompanied best by teaspoon, easy and pramatic. Half pack of white sugar from Cafe de Carol.  
   
 ---  
